@@ -1,1 +1,3 @@
 # JavaScr
+
+Learning Javascr slowly
